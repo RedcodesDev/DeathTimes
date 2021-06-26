@@ -1,0 +1,8 @@
+name: DeathTimes
+description: PLACEHOLDER
+website: www.redcodes.dev
+prefix: DeathTimes
+authors: [Redi, CrayonGamer]
+version: 1.0
+main: dev.redcodes.deathtimes.DeathTimes
+api-version: 1.13
